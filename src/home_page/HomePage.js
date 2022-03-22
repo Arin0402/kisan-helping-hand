@@ -60,7 +60,7 @@ function HomePage() {
   };
 
   return (
-    <div>
+    <div className='homepage'>
                 
         <div className='HomepageBackgroundImage'>
 
@@ -97,10 +97,11 @@ function HomePage() {
                     Search
               </button>
             </div>
+            
           </div>
           
         </div>
-        
+
 
 
     </div>
